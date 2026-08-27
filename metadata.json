@@ -1,0 +1,6 @@
+{
+  "name": "TrustShield AI",
+  "description": "AI-Powered Multimodal Identity & Impersonation Detection Platform uniting document forensics, biometric face match, voice cloning detection, and contextual fraud analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
